@@ -1,9 +1,9 @@
 # Armeria flutter example
 
-This repo houses a flutter project that uses grpc-web to talk to an armeria server using flutter-web. The project is presently not working.
+This repo houses a flutter project that uses grpc-web to talk to an armeria server using flutter-web. The project is presently not working. The directories are:
 
-- grpc/ is taken from the armeria examples.
-- grpc-dart/ to regenerate the dart code in grpc-dart/examples/helloworld (unneeded here only for completeness)
+- grpc/ is the grpc server taken from the armeria examples.
+- grpc-dart/ to regenerate the dart code in grpc-dart/examples/helloworld (unneeded here included only for completeness)
 - flutterproj/ to run the flutter client
 
 Things tried:
